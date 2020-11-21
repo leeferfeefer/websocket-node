@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Dan Fincher",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
 }
