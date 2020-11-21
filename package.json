@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Dan Fincher",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "ws": "^7.4.0"
   }
